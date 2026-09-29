@@ -1,8 +1,8 @@
 {
  "format": "jozu-update-manifest/1",
  "app": "jozu-audio",
- "manifest_version": 57,
- "latest_batch": 2036,
+ "manifest_version": 58,
+ "latest_batch": 2046,
  "batches": [
   {
    "n": 1,
@@ -12267,9 +12267,69 @@
    "dir": "batches/batch-2036",
    "count": 10,
    "index_sha256": "56fa6afce8c9aa4e83165428dfc6ea8fa74fb8dfe1b07c62292a29ec18465902"
+  },
+  {
+   "n": 2037,
+   "dir": "batches/batch-2037",
+   "count": 10,
+   "index_sha256": "ab606d27368a8976dd1371bec3e302f691a86cf46f8ea74d6497f358d085a2de"
+  },
+  {
+   "n": 2038,
+   "dir": "batches/batch-2038",
+   "count": 10,
+   "index_sha256": "a7043172c1a13bcfd0f6a1dc4e22316e5aee4922b9f272485be07acf81e7ec83"
+  },
+  {
+   "n": 2039,
+   "dir": "batches/batch-2039",
+   "count": 10,
+   "index_sha256": "e68b7e5d9c7a6d6f99d911a0b7d3bab47baac448f7731f5cfd8b9c7904d371b1"
+  },
+  {
+   "n": 2040,
+   "dir": "batches/batch-2040",
+   "count": 10,
+   "index_sha256": "2c0338cb67147af912b0dc7e61b74d817d478acaa11e23701d721e4939527bee"
+  },
+  {
+   "n": 2041,
+   "dir": "batches/batch-2041",
+   "count": 10,
+   "index_sha256": "d14e345f11881e73985c8d46a0195fbb26e5b3fb649a42b2cf0bda3ae46b6312"
+  },
+  {
+   "n": 2042,
+   "dir": "batches/batch-2042",
+   "count": 10,
+   "index_sha256": "1c3fec5472c144ebb0d13b57e5f57495bb6e078dd1ed5136084a73d1342394ef"
+  },
+  {
+   "n": 2043,
+   "dir": "batches/batch-2043",
+   "count": 10,
+   "index_sha256": "64aee156db87845c24673e0af84563794fd731e5960b3c4a993fc988bcc7b0b6"
+  },
+  {
+   "n": 2044,
+   "dir": "batches/batch-2044",
+   "count": 10,
+   "index_sha256": "a0590d3232b18bf4cc891314044ce0cbf635ef010915cdaecc79ad7c94e1a7f7"
+  },
+  {
+   "n": 2045,
+   "dir": "batches/batch-2045",
+   "count": 10,
+   "index_sha256": "df88d38665b6c6dcf06b0a89e42f64ca21e01284617fee4bf8ed6c30a69b24d1"
+  },
+  {
+   "n": 2046,
+   "dir": "batches/batch-2046",
+   "count": 10,
+   "index_sha256": "24fa32abe825f2967d31759293db08e131e3cc8a52f85b894820271adf685751"
   }
  ],
  "signature_alg": "ES256",
- "expires_at": "2026-10-29T19:26:57.809982+00:00",
- "signature": "mbLLbWSCRqLUpGwYJVjW5EfFlPHompkqJLttXwGyM5RM60ExAi_xCcBEhW0T3O6trRc-hpTK65a-cByDV0nkxA"
+ "expires_at": "2026-10-29T19:36:58.087035+00:00",
+ "signature": "-3bX_RAPxxSK72XIk_6FD6oDrSIPbnLTFVhB678DFZbbYALlVD-ktAZHV5K1uvwO0KU0CdeolPNb66bWGgKHpA"
 }
