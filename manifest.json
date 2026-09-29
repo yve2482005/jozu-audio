@@ -1,8 +1,8 @@
 {
  "format": "jozu-update-manifest/1",
  "app": "jozu-audio",
- "manifest_version": 51,
- "latest_batch": 1974,
+ "manifest_version": 52,
+ "latest_batch": 1985,
  "batches": [
   {
    "n": 1,
@@ -11895,9 +11895,75 @@
    "dir": "batches/batch-1974",
    "count": 10,
    "index_sha256": "140ab58168ce0a032416a80fe226dd58ca738fb7344ee87f5f503071290c38b7"
+  },
+  {
+   "n": 1975,
+   "dir": "batches/batch-1975",
+   "count": 10,
+   "index_sha256": "de28fa6d2673870b8c1b738fa28009e4d9edb9d003cb99ea0666d702bd33cd4a"
+  },
+  {
+   "n": 1976,
+   "dir": "batches/batch-1976",
+   "count": 10,
+   "index_sha256": "1d74d65a8ba1694dfcb2704204d54b9a961c06321728706bcf6bda9ce6120ca6"
+  },
+  {
+   "n": 1977,
+   "dir": "batches/batch-1977",
+   "count": 10,
+   "index_sha256": "675aebb3b3d5bf22dfb785e95d92e30046b81320d9b0ed3bffa19a7cae5e1fb3"
+  },
+  {
+   "n": 1978,
+   "dir": "batches/batch-1978",
+   "count": 10,
+   "index_sha256": "0e104a8b7bff0f04ab42229f655f3006dd2df5bfca64f9faf6dbee74cc809dd9"
+  },
+  {
+   "n": 1979,
+   "dir": "batches/batch-1979",
+   "count": 10,
+   "index_sha256": "2a38676bb656ecf9058df9e453fc58bab8ad300198d76f98315d40d4747c6902"
+  },
+  {
+   "n": 1980,
+   "dir": "batches/batch-1980",
+   "count": 10,
+   "index_sha256": "6208d8f425dd44c6a64709576b9a4416af76f8804972b055c3272f3e95dd2c27"
+  },
+  {
+   "n": 1981,
+   "dir": "batches/batch-1981",
+   "count": 10,
+   "index_sha256": "6a4a95288716d5d5735be4c8004be4c226b3d4420b9023b6ff559304c7ba58bb"
+  },
+  {
+   "n": 1982,
+   "dir": "batches/batch-1982",
+   "count": 10,
+   "index_sha256": "350ef557fa1c023fa306abcd45094e9e0ccfbfa987bc10f506f4f1e639921d9b"
+  },
+  {
+   "n": 1983,
+   "dir": "batches/batch-1983",
+   "count": 10,
+   "index_sha256": "20ca619543ca2b6be865286d4ccd87d3a95d414e21a9f0d532d429628ca27e38"
+  },
+  {
+   "n": 1984,
+   "dir": "batches/batch-1984",
+   "count": 10,
+   "index_sha256": "dc19d3f1aa15689311b6eb75b1f279a8863cc04bb3530458d4e5a3dfc27c779f"
+  },
+  {
+   "n": 1985,
+   "dir": "batches/batch-1985",
+   "count": 10,
+   "index_sha256": "15960bb0c53c30dafbe2ebf397fff4d7b94e42e10d9d9c9e3aa7d4d37033baa0"
   }
  ],
  "signature_alg": "ES256",
- "expires_at": "2026-10-29T18:27:01.079039+00:00",
- "signature": "_LUkeEQyD2NZJrmEdZQ2obGGIQQxnLiArwNJb1wIMGSlsW7DNzQazJ6_MU65NI3Xad1kP08uuOxQ1uiU5I-aVQ"
+ "expires_at": "2026-10-29T18:36:58.896197+00:00",
+ "signature": "b73yGMQpQ2sRuND-_aLhtT9YIMzhxdjsc-jEhKIpmVQH9xU4aJTB0z4cT73LTTL7tkOi_lPaGiVg5eAn3odtHg"
 }
