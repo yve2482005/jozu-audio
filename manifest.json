@@ -1,8 +1,8 @@
 {
  "format": "jozu-update-manifest/1",
  "app": "jozu-audio",
- "manifest_version": 23,
- "latest_batch": 1320,
+ "manifest_version": 24,
+ "latest_batch": 1326,
  "batches": [
   {
    "n": 1,
@@ -7971,9 +7971,45 @@
    "dir": "batches/batch-1320",
    "count": 10,
    "index_sha256": "fb24ea09635268536f7d31c77228af070663afedbc81e1367efb32743b4f2852"
+  },
+  {
+   "n": 1321,
+   "dir": "batches/batch-1321",
+   "count": 10,
+   "index_sha256": "7d2bd6e5a5495d64683b45baaba331069657f63b503483c4a71e7246747e07d0"
+  },
+  {
+   "n": 1322,
+   "dir": "batches/batch-1322",
+   "count": 10,
+   "index_sha256": "1332d487cbde14c3c3cffc2b635158ae1043d801348caa13282fbb0063dbaf58"
+  },
+  {
+   "n": 1323,
+   "dir": "batches/batch-1323",
+   "count": 10,
+   "index_sha256": "04f11804de25aa938f634700129d2d4985fb489d8b0db5dddbd2f95699166ac2"
+  },
+  {
+   "n": 1324,
+   "dir": "batches/batch-1324",
+   "count": 10,
+   "index_sha256": "3246c43f4569971e6840b3cb3e373c9b8bd437ec309447dcce5e07e3a4fefe30"
+  },
+  {
+   "n": 1325,
+   "dir": "batches/batch-1325",
+   "count": 10,
+   "index_sha256": "2b146843c37a8363295960cd08bb69f63d2cbc27b91e8e7dd518f3dbe1909b00"
+  },
+  {
+   "n": 1326,
+   "dir": "batches/batch-1326",
+   "count": 10,
+   "index_sha256": "2299dd569a1cf373079ac7423ffff90ff23f34d3145470a769493c7451de7497"
   }
  ],
  "signature_alg": "ES256",
- "expires_at": "2026-10-29T13:46:57.236925+00:00",
- "signature": "0ZAliMD4R0EfICN7f5DQvQo9KHvEZOPP_UpKG260PdafVOr29t652whdQI2tyM-mY55hx-HNSpanIPXVUb_FuQ"
+ "expires_at": "2026-10-29T13:56:58.986341+00:00",
+ "signature": "7dIMeRPoU7YP_SJQs617-f0J_9hSILW4WOpkfQwzq8Rgn3ymVa1Rg14-0SB9RiyjZapzeA5PVUlIK-lugQmjbg"
 }
