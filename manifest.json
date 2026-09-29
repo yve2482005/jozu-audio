@@ -1,8 +1,8 @@
 {
  "format": "jozu-update-manifest/1",
  "app": "jozu-audio",
- "manifest_version": 53,
- "latest_batch": 1995,
+ "manifest_version": 54,
+ "latest_batch": 2006,
  "batches": [
   {
    "n": 1,
@@ -12021,9 +12021,75 @@
    "dir": "batches/batch-1995",
    "count": 10,
    "index_sha256": "c13e3c682de2d4c95c1ab3de727d331e9d333fb87eaf8bf184447456a3bcc64d"
+  },
+  {
+   "n": 1996,
+   "dir": "batches/batch-1996",
+   "count": 10,
+   "index_sha256": "3bc38a45436c9f2c1d4cfb42291ce93bb6c024e599cf07968604e847532d0a88"
+  },
+  {
+   "n": 1997,
+   "dir": "batches/batch-1997",
+   "count": 10,
+   "index_sha256": "fb94735da65d325b86e7492ddfd24c0281cc304f355f75b24eb02272a39abc50"
+  },
+  {
+   "n": 1998,
+   "dir": "batches/batch-1998",
+   "count": 10,
+   "index_sha256": "1db3e13efd760e3edcecbd7c2cbead0dc233b0525a05287b702c3b9f2b86ecc5"
+  },
+  {
+   "n": 1999,
+   "dir": "batches/batch-1999",
+   "count": 10,
+   "index_sha256": "6d365e26a51047197ca197ec88f7bb379b23c8c94b2b1401c8e9cfae88468c3f"
+  },
+  {
+   "n": 2000,
+   "dir": "batches/batch-2000",
+   "count": 10,
+   "index_sha256": "9280ed86433b0a55a46712088799c5da88acffdb00cf664487552b02fc2f8479"
+  },
+  {
+   "n": 2001,
+   "dir": "batches/batch-2001",
+   "count": 10,
+   "index_sha256": "f9b22e47e692c26ef331cf0c715156befa7861c2754d5b7b1f5de7f97299ce3c"
+  },
+  {
+   "n": 2002,
+   "dir": "batches/batch-2002",
+   "count": 10,
+   "index_sha256": "1f532da39066842b20116be6facf9213e3b28e4895beec2f74b2ab362c0db55e"
+  },
+  {
+   "n": 2003,
+   "dir": "batches/batch-2003",
+   "count": 10,
+   "index_sha256": "e9fca41e8e5ed44e5ca45319bb5c83ea8e3cf7c281947f6f9edbf462a640726d"
+  },
+  {
+   "n": 2004,
+   "dir": "batches/batch-2004",
+   "count": 10,
+   "index_sha256": "5e4e42ea5644fd7fcdfd464d41a0b6f4473e640af063cb19a4919f9cfaeb56de"
+  },
+  {
+   "n": 2005,
+   "dir": "batches/batch-2005",
+   "count": 10,
+   "index_sha256": "2eb30076585690382697d901f742dc4d45b3ab0c841723081c34fde155f73e4d"
+  },
+  {
+   "n": 2006,
+   "dir": "batches/batch-2006",
+   "count": 10,
+   "index_sha256": "65315bf2d0a6bac236acc116fe6818fa654c2c1e39b795200e0d10d7cd8a4374"
   }
  ],
  "signature_alg": "ES256",
- "expires_at": "2026-10-29T18:46:59.713290+00:00",
- "signature": "vqR5ko2Yg6jebzO08l11NtJGm0R5ctWCUxEZU2Y3vMyyQdzMdx99jMIauvCos-nUi3obigJc81O8TACUQzGbtA"
+ "expires_at": "2026-10-29T18:57:02.572927+00:00",
+ "signature": "yWDEhpvIAv8VEq71O79d5KgsQsy5-mem-NDyLFuXW8kkWKsprkbk_6cg_4nVjPH4f8S0wlfnpxJzR7FSV7MNmw"
 }
