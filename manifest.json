@@ -1,8 +1,8 @@
 {
  "format": "jozu-update-manifest/1",
  "app": "jozu-audio",
- "manifest_version": 20,
- "latest_batch": 1287,
+ "manifest_version": 21,
+ "latest_batch": 1296,
  "batches": [
   {
    "n": 1,
@@ -7773,9 +7773,63 @@
    "dir": "batches/batch-1287",
    "count": 10,
    "index_sha256": "e4d2cdec537b429cbe90453368238c4e652f8f3881491ee0485040886452476d"
+  },
+  {
+   "n": 1288,
+   "dir": "batches/batch-1288",
+   "count": 10,
+   "index_sha256": "1b034ad4f6885c46455f0bf10a5a677ca7fff54ee6b8d25e23ecc7c2c77a36e8"
+  },
+  {
+   "n": 1289,
+   "dir": "batches/batch-1289",
+   "count": 10,
+   "index_sha256": "4d5d0ed0200d37d8e5bdc32fdf3e488d4a0453045041395e94a6fbd054a31632"
+  },
+  {
+   "n": 1290,
+   "dir": "batches/batch-1290",
+   "count": 10,
+   "index_sha256": "5e13de969e0103b7ff2236d840dc6a66305d82774d16622fde5c8d9ae84266a9"
+  },
+  {
+   "n": 1291,
+   "dir": "batches/batch-1291",
+   "count": 10,
+   "index_sha256": "7e54688f680156994bf31c5561a6ab4acc58564f692818951360f82475f5b409"
+  },
+  {
+   "n": 1292,
+   "dir": "batches/batch-1292",
+   "count": 10,
+   "index_sha256": "a81e96ff120e9f0bc3d59c35b8e729b8a924a4f5155b619584f4806a1e1f4e63"
+  },
+  {
+   "n": 1293,
+   "dir": "batches/batch-1293",
+   "count": 10,
+   "index_sha256": "93bb8fb08d6c251f6dac69adca9ee5cd85b238a0421764c1fc16146a8e6a88bb"
+  },
+  {
+   "n": 1294,
+   "dir": "batches/batch-1294",
+   "count": 10,
+   "index_sha256": "6c3eae115434b78af36b2c2dbbd35a9cbc69b95b385f8f3c1f71ceea6516c9b4"
+  },
+  {
+   "n": 1295,
+   "dir": "batches/batch-1295",
+   "count": 10,
+   "index_sha256": "f397ed4a5bda745cd1b9f7d584f4a7510f45b155246bd02f7f8493e16acde633"
+  },
+  {
+   "n": 1296,
+   "dir": "batches/batch-1296",
+   "count": 10,
+   "index_sha256": "cd3c681a031cf0a78186e554ef68aa68656e6f65662b7679b45a97bb850c24df"
   }
  ],
  "signature_alg": "ES256",
- "expires_at": "2026-10-29T13:17:06.752887+00:00",
- "signature": "csoIzkwdPgkDM900OFJQz6Zzi8a8TcjJDA_SZisavPVgacDYiD-dbYxCk1cTvCMI-Z2tdAJGcNcsb8ECUNlVQg"
+ "expires_at": "2026-10-29T13:26:58.337011+00:00",
+ "signature": "ktkSHXvxhB3qBzr2KBgz6vCfTzxxYPABcwgIZF3FuW-D6s7snWuyQfKReBeGToseZKUp-8C9qQpw1kG-1wS_jA"
 }
