@@ -1,8 +1,8 @@
 {
  "format": "jozu-update-manifest/1",
  "app": "jozu-audio",
- "manifest_version": 66,
- "latest_batch": 2200,
+ "manifest_version": 67,
+ "latest_batch": 2204,
  "batches": [
   {
    "n": 1,
@@ -13251,9 +13251,33 @@
    "dir": "batches/batch-2200",
    "count": 10,
    "index_sha256": "1ee5dd05368ca72dd67844c0153bbec51e7787f8879e4aeb70c739a3a32547cb"
+  },
+  {
+   "n": 2201,
+   "dir": "batches/batch-2201",
+   "count": 10,
+   "index_sha256": "0455b2c4d8464c8bddcfef70763533fd68864628046ee62fa3dcb7b92e85b6d1"
+  },
+  {
+   "n": 2202,
+   "dir": "batches/batch-2202",
+   "count": 10,
+   "index_sha256": "7b1f58bb686e63191f8897646988caefd9a40caebfdb11eb5b285990625824e9"
+  },
+  {
+   "n": 2203,
+   "dir": "batches/batch-2203",
+   "count": 10,
+   "index_sha256": "9dcf04e3b767138308ef1ff8806a064025317b6c94e7af8f08a34bb7dc6a4859"
+  },
+  {
+   "n": 2204,
+   "dir": "batches/batch-2204",
+   "count": 10,
+   "index_sha256": "3808d5599f0c253d372fcb58481a479b5974b92debe96d97ad3995a0f8d9ac84"
   }
  ],
  "signature_alg": "ES256",
- "expires_at": "2026-10-29T20:56:56.259888+00:00",
- "signature": "Jb-3HC-CKSZrG-CxN5Rbv-a8DM0qNUA93KG_QPJZJd_rb8b8u1H81iQvD8vFYLAECMb88ZEGinn0q_JvMca5Ng"
+ "expires_at": "2026-10-29T21:06:56.970109+00:00",
+ "signature": "eHyQ27tT63neagphnRDmq2hvP-MCy-ginEx4aHvXeoTo03nUCgsvX1I4oHgqwVwgFwC1p0mbEPryyAtqLiNQNw"
 }
