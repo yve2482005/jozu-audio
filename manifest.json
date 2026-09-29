@@ -1,8 +1,8 @@
 {
  "format": "jozu-update-manifest/1",
  "app": "jozu-audio",
- "manifest_version": 50,
- "latest_batch": 1965,
+ "manifest_version": 51,
+ "latest_batch": 1974,
  "batches": [
   {
    "n": 1,
@@ -11841,9 +11841,63 @@
    "dir": "batches/batch-1965",
    "count": 10,
    "index_sha256": "458d70cb9c2c568cd94c1d279a3f980dcda2403a494ed121e5cec9f5ca5a6172"
+  },
+  {
+   "n": 1966,
+   "dir": "batches/batch-1966",
+   "count": 10,
+   "index_sha256": "51409f7eb04a62973107a465778a930c88299cf6ee79ccc1b76fea6309d17109"
+  },
+  {
+   "n": 1967,
+   "dir": "batches/batch-1967",
+   "count": 10,
+   "index_sha256": "8a353f33e67191e9b56ff33667c236bd71bad527a3f995c0298e3573a68afccf"
+  },
+  {
+   "n": 1968,
+   "dir": "batches/batch-1968",
+   "count": 10,
+   "index_sha256": "59819ebac116ee74a5392811a694c134c4bdf50886d2be41ad4830b4364a5716"
+  },
+  {
+   "n": 1969,
+   "dir": "batches/batch-1969",
+   "count": 10,
+   "index_sha256": "7b63c1307852981d82cfb4323a24c5e25166fafaea44483235789829cf7fc134"
+  },
+  {
+   "n": 1970,
+   "dir": "batches/batch-1970",
+   "count": 10,
+   "index_sha256": "bb6046d879a60fdd9f160f40d0b1e4b0044c909d64a8cff76326e0cbef047b93"
+  },
+  {
+   "n": 1971,
+   "dir": "batches/batch-1971",
+   "count": 10,
+   "index_sha256": "5faa57bfdb26f2f9759fbd5e2d77f6815eafa86a1211ef1148f5d77536292680"
+  },
+  {
+   "n": 1972,
+   "dir": "batches/batch-1972",
+   "count": 10,
+   "index_sha256": "1cd266c5260975207ced1d8ca048c423c14266bb0a69173cb2cc653fe108e07d"
+  },
+  {
+   "n": 1973,
+   "dir": "batches/batch-1973",
+   "count": 10,
+   "index_sha256": "5083b8c48fa985c5b2a4552d04250f04a47e78ab4cf5ead7595d3c4cb47424e8"
+  },
+  {
+   "n": 1974,
+   "dir": "batches/batch-1974",
+   "count": 10,
+   "index_sha256": "140ab58168ce0a032416a80fe226dd58ca738fb7344ee87f5f503071290c38b7"
   }
  ],
  "signature_alg": "ES256",
- "expires_at": "2026-10-29T18:16:57.247629+00:00",
- "signature": "tF9PZoap9GxOnMW1oGjCEqg7Y2_f7J5_rNhhYGDExjpKOvpKULYeUSgXvzAgnkqCfXlexxOxQrpe1kjR3Bw3bA"
+ "expires_at": "2026-10-29T18:27:01.079039+00:00",
+ "signature": "_LUkeEQyD2NZJrmEdZQ2obGGIQQxnLiArwNJb1wIMGSlsW7DNzQazJ6_MU65NI3Xad1kP08uuOxQ1uiU5I-aVQ"
 }
