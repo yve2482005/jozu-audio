@@ -1,8 +1,8 @@
 {
  "format": "jozu-update-manifest/1",
  "app": "jozu-audio",
- "manifest_version": 37,
- "latest_batch": 1631,
+ "manifest_version": 38,
+ "latest_batch": 1659,
  "batches": [
   {
    "n": 1,
@@ -9837,9 +9837,177 @@
    "dir": "batches/batch-1631",
    "count": 10,
    "index_sha256": "b479a7e6739921645c99a9529e0d9cec1cfb0e83f1da1a60de9ee15d8def1052"
+  },
+  {
+   "n": 1632,
+   "dir": "batches/batch-1632",
+   "count": 10,
+   "index_sha256": "3d7d50253856ec1e4ee1047dd081820e458e74add372e23aca110782c5701914"
+  },
+  {
+   "n": 1633,
+   "dir": "batches/batch-1633",
+   "count": 10,
+   "index_sha256": "58488fc5165e336a4f79b69970341a09dcecf2bd901ed19e94edd37fbef11563"
+  },
+  {
+   "n": 1634,
+   "dir": "batches/batch-1634",
+   "count": 10,
+   "index_sha256": "fee44e503988e6c48258b1c4062f433fd414e9837f0dfa8bea158422032952d3"
+  },
+  {
+   "n": 1635,
+   "dir": "batches/batch-1635",
+   "count": 10,
+   "index_sha256": "7c13742ff3486192a0babff0dac5a1549b79b83c7c1b22c736aee811c23f6ec7"
+  },
+  {
+   "n": 1636,
+   "dir": "batches/batch-1636",
+   "count": 10,
+   "index_sha256": "942ce3ef3158c8dcfce221cf78d75ae032df8a57bd51ae9843a9ab69b92369e9"
+  },
+  {
+   "n": 1637,
+   "dir": "batches/batch-1637",
+   "count": 10,
+   "index_sha256": "4d1b9988828f908015aabf6c37678010b8e92596419215433144995caa3ea047"
+  },
+  {
+   "n": 1638,
+   "dir": "batches/batch-1638",
+   "count": 10,
+   "index_sha256": "674677362961007bb2bfd0d012267840ce61d363e31c728ffc87e9f45446c5ab"
+  },
+  {
+   "n": 1639,
+   "dir": "batches/batch-1639",
+   "count": 10,
+   "index_sha256": "aaee8d6bbd57c2c86f9f363b71ac37007c734c5c58ab33dbd437d120c32c0bf3"
+  },
+  {
+   "n": 1640,
+   "dir": "batches/batch-1640",
+   "count": 10,
+   "index_sha256": "cf26b468971e40a133933586c153afb1b06cb600cb8026d1712ec5afbc875c3e"
+  },
+  {
+   "n": 1641,
+   "dir": "batches/batch-1641",
+   "count": 10,
+   "index_sha256": "1087f35fe1bc71caf61683d4bedcfc03f9e0185e9ae508d20cf913681ed027e0"
+  },
+  {
+   "n": 1642,
+   "dir": "batches/batch-1642",
+   "count": 10,
+   "index_sha256": "62874f4aaa58668de8c5030999a7225f7d9e891fd08413cc2731769d789f94df"
+  },
+  {
+   "n": 1643,
+   "dir": "batches/batch-1643",
+   "count": 10,
+   "index_sha256": "e07ca0a9adcf488550189a1901bf93421364829adcca8ada3f5a53a9efdd9269"
+  },
+  {
+   "n": 1644,
+   "dir": "batches/batch-1644",
+   "count": 10,
+   "index_sha256": "57690b96a2feb718001dbb9325ff735579ed54f97c49f5b2a1d20a9dffcb541a"
+  },
+  {
+   "n": 1645,
+   "dir": "batches/batch-1645",
+   "count": 10,
+   "index_sha256": "1b2aa361a5185ef01ce19ec5ca6613427fb791b3b29ca12dea2f8c55538ab618"
+  },
+  {
+   "n": 1646,
+   "dir": "batches/batch-1646",
+   "count": 10,
+   "index_sha256": "86b51e82240a08c06e3ee0cbdc862857e1a8c6f8fc183c0c223136bdffe1a641"
+  },
+  {
+   "n": 1647,
+   "dir": "batches/batch-1647",
+   "count": 10,
+   "index_sha256": "a3d63a4ef69f93d08d2a3e7c97747593b4f2c04e0362b04a6c3f664470aec207"
+  },
+  {
+   "n": 1648,
+   "dir": "batches/batch-1648",
+   "count": 10,
+   "index_sha256": "e4bf8b1bb25769d628ac0b0d3986711d781c895695696469db7983e0a5b27c08"
+  },
+  {
+   "n": 1649,
+   "dir": "batches/batch-1649",
+   "count": 10,
+   "index_sha256": "9efbbf84ca3f101a2a0929313277debc6dbafa2d6fc778d3a74ebf6d7fe1af8a"
+  },
+  {
+   "n": 1650,
+   "dir": "batches/batch-1650",
+   "count": 10,
+   "index_sha256": "a66027c93b748afa51ab25345ab66f16833cbf9692cfaccb51ced0955feea4f4"
+  },
+  {
+   "n": 1651,
+   "dir": "batches/batch-1651",
+   "count": 10,
+   "index_sha256": "e721c800bd5285699ebd09c23fe0ebd8920c3b643781ce8cb351defe74fb6c7d"
+  },
+  {
+   "n": 1652,
+   "dir": "batches/batch-1652",
+   "count": 10,
+   "index_sha256": "f221397a73886eb34b894a23bca43787b1d5ca2522316077b7da89cf9771ef6e"
+  },
+  {
+   "n": 1653,
+   "dir": "batches/batch-1653",
+   "count": 10,
+   "index_sha256": "430a7adc101237251f7bb66399fefab49ce3473adab30861fe6bb7829c3ec896"
+  },
+  {
+   "n": 1654,
+   "dir": "batches/batch-1654",
+   "count": 10,
+   "index_sha256": "bece9cf4d25339c1a1641785ac215020d1714d60998d7f88949bd291c69d4479"
+  },
+  {
+   "n": 1655,
+   "dir": "batches/batch-1655",
+   "count": 10,
+   "index_sha256": "9a09dfd5df532c6bcb2bcb2affcd129e39fe45fee17bde4c1a1993d6c5b1c395"
+  },
+  {
+   "n": 1656,
+   "dir": "batches/batch-1656",
+   "count": 10,
+   "index_sha256": "9046494ae8dee77b28b8cbbabeaf7d50ccffd30564648607e39f20cb1f7d9465"
+  },
+  {
+   "n": 1657,
+   "dir": "batches/batch-1657",
+   "count": 10,
+   "index_sha256": "0ae77d7848d21c6cb242c70ce8e2ec5df512d954a98586c79159d588974a1ac6"
+  },
+  {
+   "n": 1658,
+   "dir": "batches/batch-1658",
+   "count": 10,
+   "index_sha256": "5eaf4f4e8b0ce90cf34c1eb7a10b52b8149466d7a14f34620a147edd2bc0b14b"
+  },
+  {
+   "n": 1659,
+   "dir": "batches/batch-1659",
+   "count": 10,
+   "index_sha256": "1502d28406e415d9c56e98f0669fa47a2f7758c29d274239e32973c414b88c45"
   }
  ],
  "signature_alg": "ES256",
- "expires_at": "2026-10-29T16:06:57.082971+00:00",
- "signature": "au8ca1qd1cK0ayFEwUDf3WtyygWgbhhs-vbXCJJo_y5zqWZy6S4JuxSlKnkVcGZRLQnwgypYxyTrAqlFnq6j6w"
+ "expires_at": "2026-10-29T16:16:57.965735+00:00",
+ "signature": "64CwySvawQExzMWnnT98g4asfHN297EQ9fbOGMUNq7XeChBLqASgrU20_GIm6LkQjfSJw-8BBEfjoAXM0wdH2w"
 }
