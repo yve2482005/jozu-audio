@@ -1,8 +1,8 @@
 {
  "format": "jozu-update-manifest/1",
  "app": "jozu-audio",
- "manifest_version": 16,
- "latest_batch": 1243,
+ "manifest_version": 17,
+ "latest_batch": 1265,
  "batches": [
   {
    "n": 1,
@@ -7461,9 +7461,141 @@
    "dir": "batches/batch-1243",
    "count": 10,
    "index_sha256": "8b030420aac98222d5260266d9b4776da7b552de25ae26aec9c6055834f97168"
+  },
+  {
+   "n": 1244,
+   "dir": "batches/batch-1244",
+   "count": 10,
+   "index_sha256": "01c906bc8defe19c2bfb77cf9c76165ef83d652a72b0ff9b7408461bdd322aea"
+  },
+  {
+   "n": 1245,
+   "dir": "batches/batch-1245",
+   "count": 10,
+   "index_sha256": "1504008f46a22296a698d772570ba6cd20aab5c4cd81464478fadfa30f10c050"
+  },
+  {
+   "n": 1246,
+   "dir": "batches/batch-1246",
+   "count": 10,
+   "index_sha256": "be46f69c2b70a4e8f165370d779498f25f7568e8369edb75662ffeb8b5a4de97"
+  },
+  {
+   "n": 1247,
+   "dir": "batches/batch-1247",
+   "count": 10,
+   "index_sha256": "e24642e36ff70edae38f3120c7974e309b297fdfc602eee07e7542a466198492"
+  },
+  {
+   "n": 1248,
+   "dir": "batches/batch-1248",
+   "count": 10,
+   "index_sha256": "8822d6f1ca165e27d3ed2f0815c6b1e9f2022652376866643d6a9a0982aa663d"
+  },
+  {
+   "n": 1249,
+   "dir": "batches/batch-1249",
+   "count": 10,
+   "index_sha256": "e5344abe4dd53133cc29abe340f1c4568bdfb0a52658f56d02e1959f041a88ad"
+  },
+  {
+   "n": 1250,
+   "dir": "batches/batch-1250",
+   "count": 10,
+   "index_sha256": "a269ff37f6792f4607368dc57706eb6ebc7f4ade101d24152790ce9b7ede8dc6"
+  },
+  {
+   "n": 1251,
+   "dir": "batches/batch-1251",
+   "count": 10,
+   "index_sha256": "8656d8c0b399c9c7acbb0d033e211863418dd608bcb117f0125908844d823697"
+  },
+  {
+   "n": 1252,
+   "dir": "batches/batch-1252",
+   "count": 10,
+   "index_sha256": "6dcea6b281c10580ed2b3d28fc434695eb781c69980b89343140cc628fd5bec1"
+  },
+  {
+   "n": 1253,
+   "dir": "batches/batch-1253",
+   "count": 10,
+   "index_sha256": "4953b248fb14c563a8d3bda07a32c34e2bbb327237a68d48c00749e7cbb02406"
+  },
+  {
+   "n": 1254,
+   "dir": "batches/batch-1254",
+   "count": 10,
+   "index_sha256": "2dd439117883a95f70ab140d69082fa19ee62b9d44b928401f82e2b5a72889d8"
+  },
+  {
+   "n": 1255,
+   "dir": "batches/batch-1255",
+   "count": 10,
+   "index_sha256": "9324faccb88cbe1a3ba3e2b10625f6b1bd9399969cba51fc847b2d898f6432ac"
+  },
+  {
+   "n": 1256,
+   "dir": "batches/batch-1256",
+   "count": 10,
+   "index_sha256": "c9eb830aa9b9ec18deafca6e53aabe5868a3d9e861daf313687c5861515c2149"
+  },
+  {
+   "n": 1257,
+   "dir": "batches/batch-1257",
+   "count": 10,
+   "index_sha256": "3601470d01e759f741114d027eddc4b3066075bc8ec62dc97dd9cf14674c9deb"
+  },
+  {
+   "n": 1258,
+   "dir": "batches/batch-1258",
+   "count": 10,
+   "index_sha256": "e0b07ab1ec115d884ea703e59ba2b30c952730208fb4b6e122fa0246074be8be"
+  },
+  {
+   "n": 1259,
+   "dir": "batches/batch-1259",
+   "count": 10,
+   "index_sha256": "08c84ebe1d6c6d7062f5f6c03ba54b3c50d968ca1aea85dcd80d9abbb422b779"
+  },
+  {
+   "n": 1260,
+   "dir": "batches/batch-1260",
+   "count": 10,
+   "index_sha256": "ed6eaa86402bdcfcf899751710b94b983b88492c4845985e301fc6f3c9ffb9f7"
+  },
+  {
+   "n": 1261,
+   "dir": "batches/batch-1261",
+   "count": 10,
+   "index_sha256": "ebc2458fbfa63c940087743330d869e6d6ea8b27df451f12392341df596bb66a"
+  },
+  {
+   "n": 1262,
+   "dir": "batches/batch-1262",
+   "count": 10,
+   "index_sha256": "c8a8a0c2749bf04d7deea0452725baada1f78a3d0f4fb9f5c0ff8330fe17225e"
+  },
+  {
+   "n": 1263,
+   "dir": "batches/batch-1263",
+   "count": 10,
+   "index_sha256": "52d85208e2f3b1b78f6644d92618541382f2267c204a18aade2144f736801381"
+  },
+  {
+   "n": 1264,
+   "dir": "batches/batch-1264",
+   "count": 10,
+   "index_sha256": "89ffe6d9210acddd4b63b2e9ba84062316c2b9a8395ce5dfa031301391903fcb"
+  },
+  {
+   "n": 1265,
+   "dir": "batches/batch-1265",
+   "count": 10,
+   "index_sha256": "387fac771a299b4620cb3c3d13c8829ec3d346d6ec0118d688114354d0ce2ab6"
   }
  ],
  "signature_alg": "ES256",
- "expires_at": "2026-10-29T12:46:56.097657+00:00",
- "signature": "h0f5MUfQ_UA0qtEKbK6C1Gz0muqP9elfEqfyVw2MgJqCbLuHae_M7d1rHHAZfaJYoesngDGBMm84yv66qvcRog"
+ "expires_at": "2026-10-29T12:56:58.403647+00:00",
+ "signature": "2-nHJDMd9o3kit8YFHJGacR7E5G77FBSnMnRTV_LKUSQE6ZqBJwkJH_Wm89ysI_o7Ol9idRzs1DQNLycwVUcJw"
 }
