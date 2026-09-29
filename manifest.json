@@ -1,8 +1,8 @@
 {
  "format": "jozu-update-manifest/1",
  "app": "jozu-audio",
- "manifest_version": 19,
- "latest_batch": 1294,
+ "manifest_version": 20,
+ "latest_batch": 1287,
  "batches": [
   {
    "n": 1,
@@ -7767,9 +7767,15 @@
    "dir": "batches/batch-1294",
    "count": 10,
    "index_sha256": "037cc99bbea3c81c074b3003c0d66f17a08a932fa9efb5d78439a683b446fddb"
+  },
+  {
+   "n": 1287,
+   "dir": "batches/batch-1287",
+   "count": 10,
+   "index_sha256": "e4d2cdec537b429cbe90453368238c4e652f8f3881491ee0485040886452476d"
   }
  ],
  "signature_alg": "ES256",
- "expires_at": "2026-10-29T13:16:57.261962+00:00",
- "signature": "bCGDsRUaZsMQDxUS9uJ5XMFjAICQAdI8yCBWdD_4E4T7OXHSuBaCV8ABuZAYkRGgFQnA91HPXEm59IRTLEhqqQ"
+ "expires_at": "2026-10-29T13:17:06.752887+00:00",
+ "signature": "csoIzkwdPgkDM900OFJQz6Zzi8a8TcjJDA_SZisavPVgacDYiD-dbYxCk1cTvCMI-Z2tdAJGcNcsb8ECUNlVQg"
 }
